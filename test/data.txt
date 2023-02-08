@@ -1,0 +1,3 @@
+1_ap.tiff 1_l.tiff 0
+2_ap.tiff 2_l.tiff 0
+3_ap.tiff 3_l.tiff 0
