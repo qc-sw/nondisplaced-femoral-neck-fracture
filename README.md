@@ -10,4 +10,5 @@ we unpack our py code to linux executable file for demo testing
 - runing resluts will be displayed as below ( Notes: logs may not be displaed immediately, please wait one minute or more regarding to your device )
 ![logs.png](https://upload-images.jianshu.io/upload_images/10447075-3ed7051fd61d66c7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+get "demo" in  https://drive.google.com/file/d/1a6-7kJgoAFF1UowI65URngdyQmZPSAvy/view?usp=sharing
 get model weights in https://drive.google.com/drive/folders/1iHyo67v5cWjCvnFYFqpx0ymwj-m-wT2c?usp=sharing
