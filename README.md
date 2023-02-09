@@ -4,7 +4,7 @@ we unpack our py code to linux executable file for demo testing
 - In a linux environment ( with or without gpu )
 - download the executable file "demo", test images ,config file and weights
 - run command: 
-	```{path to "demo"} --data-path {your folder to test images} --pretrained {your folder to model weights}```
+	```{path to "demo"} --data-path {folder to test images} --pretrained {path to model weights} --cfg {path to config file}```
 - example: 
 ```./demo --data-path "/data4/qcc/test/" --pretrained "/data4/qcc/dat/output/dat_tiny/pair-cv10-backbone-merge-turning-lr3e-03-minlr1e-05/ckpt_best_cv1.pth" --cfg "/data4/qcc/dat/configs/dat_tiny.yaml"```
 - runing resluts will be displayed as below ( Notes: logs may not be displaed immediately, please wait one minute or more regarding to your device )
